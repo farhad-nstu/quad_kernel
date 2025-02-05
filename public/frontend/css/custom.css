@@ -1,0 +1,19 @@
+.bg-btn{
+    background: linear-gradient(to right, #377572 0, #377572 100%) !important;
+    box-shadow: 0 10px 15px 0 rgba(12, 114, 97, 0.2) !important;
+}
+.bg-btn3{
+    background: linear-gradient(to right, #377572 0, #377572 100%) !important;
+    box-shadow: 0 10px 15px 0 rgba(12, 114, 97, 0.2) !important;
+}
+.common-heading>span{
+    color: #377572 !important;
+}
+
+.link-hover a:hover{
+    color: #377572 !important;
+}
+
+.active-dark .single-blog- .content .title a:hover {
+    color: #377572 !important;
+}
