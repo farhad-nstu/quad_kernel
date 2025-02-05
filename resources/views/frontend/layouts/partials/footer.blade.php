@@ -4,10 +4,9 @@
         <div class="row">
           <div class="col-lg-6">
             <div class="email-subs">
-              <h3>Get New Insights Weekly</h3>
+              <h3>Empower Your Business with the Latest Tech Insights & Updates</h3>
               <p>
-                News letter dolor sit amet, consectetur adipiscing elit, sed
-                do eiusmod tempor incididunt. Enter your email
+                Subscribe to Quad Kernel’s newsletter and receive exclusive tech insights, trends, and solutions straight to your inbox! Stay informed and ahead of the curve.
               </p>
             </div>
           </div>
@@ -44,8 +43,7 @@
               <img src="{{ asset('/frontend') }}/images/white-logo.png" alt="Logo"
             /></a>
             <p>
-              News letter dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt. Enter your email
+             We are not just a technology company - we strive to be your strategic partner in digital transformation with innovation which is the key to unlocking endless possibilities!
             </p>
             <a href="#" class="btn-main bg-btn3 lnk mt20"
               >Become Partner <i class="fas fa-chevron-right fa-icon"></i
@@ -136,43 +134,7 @@
         </div>
       </div>
     </div>
-    <div class="footer-brands">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-4 v-center">
-            <h5 class="mb10">Top App Development Companies</h5>
-            <p>
-              News letter dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt. Enter your email
-            </p>
-          </div>
-          <div class="col-lg-8 v-center">
-            <ul class="footer-badges-">
-              <li>
-                <a href="#"
-                  ><img src="{{ asset('/frontend') }}/images/about/badges-a.png" alt="badges"
-                /></a>
-              </li>
-              <li>
-                <a href="#"
-                  ><img src="{{ asset('/frontend') }}/images/about/badges-b.png" alt="badges"
-                /></a>
-              </li>
-              <li>
-                <a href="#"
-                  ><img src="{{ asset('/frontend') }}/images/about/badges-c.png" alt="badges"
-                /></a>
-              </li>
-              <li>
-                <a href="#"
-                  ><img src="{{ asset('/frontend') }}/images/about/badges-d.png" alt="badges"
-                /></a>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
+    
     <div class="footer-row3">
       <div class="copyright">
         <div class="container">
