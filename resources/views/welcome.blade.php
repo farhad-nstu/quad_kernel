@@ -8,12 +8,11 @@
             <div class="col-lg-6 v-center">
               <div class="header-heading">
                 <h1 class="wow fadeInUp" data-wow-delay=".2s">
-                  Creative Web Development Company
+                  Quad Kernel | Four Cores, Infinite Possibilities
                 </h1>
                 <p class="wow fadeInUp" data-wow-delay=".4s">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Suspendisse faucibus, risus sit amet auctor sodales, justo
-                  erat tempor eros.
+                  Built on four core principles | efficiency, reliability, adaptability, 
+                  and excellence. we unlock infinite possibilities for your businesses to flourish in the digital era.
                 </p>
                 <a
                   href="#"
@@ -53,18 +52,29 @@
           </div>
           <div class="col-lg-6">
             <div class="common-heading text-l">
-              <span>We Are Creative Agency</span>
-              <h2>About Agency</h2>
+              <span>Welcome to Quadkernel!!</span>
+              <h2>About Us</h2>
               <p>
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's standard dummy
-                text ever since the 1500s, when an unknown printer took a galley
-                of type and scrambled it to make a type specimen book. Lorem
-                Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum is simply dummy text of the printing and
-                typesetting industry. is simply dummy text of the printing and
-                typesetting industry.
+                At Quad Kernel, we are a passionate team dedicated to transforming innovative ideas into cutting-edge software solutions. Our vision is to revolutionize the tech industry by leveraging the latest advancements in artificial intelligence, cloud computing, and cybersecurity.
+Our agency combines creativity and technical expertise to deliver projects that not only meet our clients' needs but also exceed their expectations. With a team of forward-thinking professionals, we push the boundaries of software development and digital transformation, empowering businesses worldwide.
               </p>
+                <strong>
+                    Our Mission
+                </strong>
+                <p>
+                    We believe in the power of technology to enhance lives and drive business success. Our mission is to provide high-quality software development services that help our clients innovate, grow, and achieve their goals. 
+                </p>
+                 <strong>
+                    Why Choose Us?
+                </strong>
+                <p>
+                    Expertise & Experience: With years of collective experience in the industry, we stay up-to-date with the latest technologies and trends to deliver best-in-class solutions.
+Customer-Centric Approach: We view our clients as partners and are committed to providing personalized service tailored to each project's unique requirements.
+Innovative Solutions: Our creative minds thrive on problem-solving, allowing us to develop inventive solutions that make a true impact on your business.
+Get in Touch
+Whether you're a startup looking for your first product or an established business seeking to enhance your software capabilities, Quadkernel is here to help. Let's bring your ideas to life together!
+
+                </p>
             </div>
           </div>
         </div>
@@ -208,13 +218,8 @@
               <div class="testimonial-card">
                 <div class="t-text">
                   <p>
-                    Lorem Ipsum is simply dummy text of the printing and
-                    typesetting industry. Lorem Ipsum has been the industry's
-                    standard dummy text ever since the 1500s, when an unknown
-                    printer took a galley of type and scrambled it to make a
-                    type specimen book. Lorem Ipsum is simply dummy text of the
-                    printing and typesetting industry. Lorem Ipsum has been the
-                    industry's standard dummy text ever since.
+                    I am absolutely thrilled with the service I received from Quad kernel! From the initial consultation to the final delivery, their team was professional, responsive, and dedicated to meeting my needs. 
+Thank you to the entire team at Quad kernel for an outstanding experience. I look forward to continuing our partnership and exploring new ways to leverage your expertise to drive my business forward!
                   </p>
                 </div>
                 <div class="client-thumbs mt30">
@@ -236,13 +241,9 @@
               <div class="testimonial-card">
                 <div class="t-text">
                   <p>
-                    Lorem Ipsum is simply dummy text of the printing and
-                    typesetting industry. Lorem Ipsum has been the industry's
-                    standard dummy text ever since the 1500s, when an unknown
-                    printer took a galley of type and scrambled it to make a
-                    type specimen book. Lorem Ipsum is simply dummy text of the
-                    printing and typesetting industry. Lorem Ipsum has been the
-                    industry's standard dummy text ever since.
+                    I am absolutely thrilled with the service I received from Quad kernel! From the initial consultation to the final delivery, their team was professional, responsive, and dedicated to meeting my needs. 
+Thank you to the entire team at Quad kernel for an outstanding experience. I look forward to continuing our partnership and exploring new ways to leverage your expertise to drive my business forward!
+
                   </p>
                 </div>
                 <div class="client-thumbs mt30">
@@ -264,13 +265,9 @@
               <div class="testimonial-card">
                 <div class="t-text">
                   <p>
-                    Lorem Ipsum is simply dummy text of the printing and
-                    typesetting industry. Lorem Ipsum has been the industry's
-                    standard dummy text ever since the 1500s, when an unknown
-                    printer took a galley of type and scrambled it to make a
-                    type specimen book. Lorem Ipsum is simply dummy text of the
-                    printing and typesetting industry. Lorem Ipsum has been the
-                    industry's standard dummy text ever since.
+                    I am absolutely thrilled with the service I received from Quad kernel! From the initial consultation to the final delivery, their team was professional, responsive, and dedicated to meeting my needs. 
+Thank you to the entire team at Quad kernel for an outstanding experience. I look forward to continuing our partnership and exploring new ways to leverage your expertise to drive my business forward!
+
                   </p>
                 </div>
                 <div class="client-thumbs mt30">
